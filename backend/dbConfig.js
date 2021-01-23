@@ -6,7 +6,7 @@ const db = new Sequelize({
     username: 'sa',
     host: 'localhost',
     port: '55892',
-    password: 'Sql1122334455',  
+    password: '1234',  
     validateBulkLoadParameters: true,
     define: {
     timestamps: false,
